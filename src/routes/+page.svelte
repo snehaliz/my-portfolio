@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+   <title>Home Page</title>
+</svelte:head>
+<h1>Sneha Shah</h1>
+<p>Hi my name is Sneha and this is my portfolio website.</p>
+<img src="/images/home.jpeg" alt="Me at Banff">
