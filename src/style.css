@@ -113,7 +113,7 @@ h1,h2,h3,h4,h5,h6{
     grid-row-start: 1;
 }
 
-.color-scheme {
+/*.color-scheme {
     position: absolute;
     top: 1rem;
     right: 1rem;
@@ -125,4 +125,4 @@ h1,h2,h3,h4,h5,h6{
   textarea,
   button {
     font: inherit;
-  }
+  }*/

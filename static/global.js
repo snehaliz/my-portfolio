@@ -54,18 +54,18 @@ document.addEventListener('DOMContentLoaded',() => {
     //nav.append(a);
   //}
   
-  document.body.insertAdjacentHTML(
-    'afterbegin',
-    `
-    <label class="color-scheme">
-      Theme:
-      <select>
-        <option value="light dark">Automatic</option>
-        <option value="light">Light</option>
-        <option value="dark">Dark</option>
-      </select>
-    </label>`
-  );
+  //document.body.insertAdjacentHTML(
+    //'afterbegin',
+    //`
+   // <label class="color-scheme">
+      //Theme:
+      //<select>
+        //<option value="light dark">Automatic</option>
+        //<option value="light">Light</option>
+        //<option value="dark">Dark</option>
+      //</select>
+    //</label>`
+  //);
 
   const select = document.querySelector('.color-scheme select');
 

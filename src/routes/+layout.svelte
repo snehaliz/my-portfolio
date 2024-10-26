@@ -2,6 +2,11 @@
 import '../style.css';
 import { page } from '$app/stores';
 
+let localStorage = globalThis.localStorage ?? {};
+let colorScheme = localStorage.colorScheme ?? 'light dark';
+let root = globalThis?.document?.documentElement;
+$: root?.style.setProperty('color-scheme', colorScheme);
+$: localStorage.colorScheme = colorScheme;
 
 let pages = [
   { url: './', title: 'Home' },
@@ -23,6 +28,16 @@ let pages = [
       </a>
     {/each}
 </nav>
+
+
+<label class="color-scheme">
+  Theme:
+  <select bind:value={ colorScheme}>
+    <option value="light dark">Automatic</option>
+    <option value="light">Light</option>
+    <option value="dark">Dark</option>
+  </select>
+</label>
 
 <slot />
 
@@ -51,6 +66,17 @@ nav a:hover{
     border-bottom: 0.4em solid var(--border-color);
     padding-bottom: 0.1em;
     background-color: color-mix(in oklch, var(--color-accent), canvas 85%);
+  }
+
+.color-scheme {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 80%;
+  }
+
+.color-scheme select {
+    font: inherit;
   }
 
 </style>

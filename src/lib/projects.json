@@ -1,62 +1,74 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In esse expedita eos laboriosam laborum vitae ut ad fugit accusantium facere sit minus explicabo dolor placeat, assumenda blanditiis perferendis inventore culpa!"
+        "title": "Project 2: Earnest Visualization",
+        "year": "2024",
+        "image": "/Users/snehashah/Downloads/a2_earnest.png",
+        "description": "This bar graph shows prevalence of COVID and Long COVID among adults."
     },
     {
-        "title": "Facere eum illo id?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Modi dignissimos quod et dolores voluptatem minima ipsa provident iure tempore pariatur distinctio nesciunt perspiciatis odit, sit debitis neque voluptate autem sequi eum soluta voluptatum aspernatur ex! Sint, quasi aspernatur?"
+        "title": "Project 2: Deceptive Visualization",
+        "year": "2024",
+        "image": "/Users/snehashah/Downloads/a2_deceptive.png",
+        "description": "This line graph demonstrates that Long COVID is still influencing COVID survivors."
     },
     {
-        "title": "Nulla sapiente temporibus voluptate!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Fuga delectus quas qui accusantium? Voluptates cum omnis minima qui ullam eaque hic nisi? Corrupti aliquam aspernatur nesciunt molestias reiciendis quisquam cupiditate veniam nisi tempore vero! Asperiores sequi porro repellat!"
+        "title": "Project 1: Expository Visualization",
+        "year": "2024",
+        "image": "/Users/snehashah/Downloads/a1.png",
+        "description": "This bar chart shows how sunshine and rain are related in various cities."
     },
     {
-        "title": "Ut consectetur nesciunt dignissimos.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Dicta nostrum rem iure, provident laboriosam ab a deleniti nemo tempora tenetur, voluptatibus accusantium qui animi natus assumenda blanditiis officiis illum sit autem at. Sunt quos voluptatum facilis maxime? Dolor?"
+        "title": "PySpark Data Analysis Group Project",
+        "year": "2024",
+        "image": "/Users/snehashah/Desktop/FEMA_2024.png",
+        "description": "This is a graph showing the train RMSE and test RMSE."
     },
     {
-        "title": "Nesciunt quam alias soluta!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Voluptatem voluptatibus sit iusto! Dicta eligendi amet, dolore laborum, quam facilis ullam dolor provident ut labore eius, sed cumque odio autem qui aut quis aliquid neque. Sed quisquam iure tenetur."
+        "title": "WIDS Conference Presentation",
+        "year": "2024",
+        "image": "/Users/snehashah/Desktop/wids_2024.png",
+        "description": "This chart shows Smokers Percentage each year based on Race-Ethnicity."
     },
     {
-        "title": "Ea unde velit ipsa.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Nostrum tempore nesciunt odio et culpa nihil quas architecto ex nam vero deserunt commodi cupiditate est quibusdam beatae quisquam, quae veniam delectus rerum aspernatur itaque a perferendis. Enim, nisi ut."
+        "title": "PG&E Electricity Bill Data Project",
+        "year": "2023",
+        "image": "/Users/snehashah/Desktop/pg&e_2023.png",
+        "description": "This is a graph showing the electricity cost based on the month and rate."
     },
     {
-        "title": "Dolorum ratione explicabo possimus?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Exercitationem, nesciunt. Quam explicabo, at molestias ipsum maiores quod harum magni alias cupiditate accusantium aliquid nobis libero. Aliquid asperiores repellat voluptates enim officia ipsam earum quis, vero aut amet ad."
+        "title": "Heart Failure Prediction",
+        "year": "2023",
+        "image": "/Users/snehashah/Desktop/Heart_Failure_Prediction_2023.png",
+        "description": "This is a correlation matrix of among the columns within this dataset."
     },
     {
-        "title": "Cum nobis quidem animi!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Asperiores odio, ipsam nesciunt deleniti laboriosam maiores ipsa vero voluptates perspiciatis porro in doloremque culpa laudantium facere excepturi repellat ab eaque! Eligendi, a optio? Reprehenderit nam dolore possimus optio alias."
+        "title": "Sentiment Analysis Project",
+        "year": "2022",
+        "image": "/Users/snehashah/Desktop/Sentiment_Analysis_2022.png",
+        "description": "This is a graph showing the sentiment analysis score for each sentence in a poem."
     },
     {
-        "title": "Qui consectetur impedit aut.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Illo suscipit vel eum pariatur facilis enim dolorem, voluptatibus quidem debitis beatae commodi voluptatem omnis expedita, porro impedit eligendi laudantium! Placeat at blanditiis perspiciatis amet modi nostrum eum numquam consequuntur!"
+        "title": "Baseball Database Website",
+        "year": "2022",
+        "image": "/Users/snehashah/Desktop/database_design_2022.png",
+        "description": "This is a website that creates results of players and scores based on the team and the year selected."
     },
     {
-        "title": "Ex debitis provident ab.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Officiis laborum quod facere saepe praesentium tempore non aliquam minima impedit voluptatum distinctio incidunt, rerum, reiciendis officia. Soluta dolores, quod voluptates accusamus eos dolor blanditiis consectetur in quaerat necessitatibus vitae."
+        "title": "Temperature Outliers Data Science Project",
+        "year": "2022",
+        "image": "/Users/snehashah/Desktop/data_science_final_2022.png",
+        "description": "This is a graph of Vertical Temperature Profiles. "
     },
     {
-        "title": "Vero porro voluptates dolores!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Doloribus quas sit vero quos consequuntur suscipit, quia illum veniam aspernatur ratione odio voluptatum doloremque at similique. Nobis tempora impedit voluptatibus asperiores, eligendi eaque rem repellendus corrupti officia totam sapiente?"
+        "title": "BITalino ECG Data Analyzer",
+        "year": "2017",
+        "image": "/Users/snehashah/Desktop/bitalino_2017.png",
+        "description": "I wrote code to analyze heart rate data to tell if someone's heart rate is normal or not."
     },
     {
-        "title": "Cumque reiciendis amet omnis.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quae odit expedita, officia totam exercitationem fugiat velit architecto, asperiores praesentium debitis rem pariatur? At, nobis. Deserunt, quis. Sit magnam et natus iure maiores veniam dignissimos at facilis! Quam, debitis!"
+        "title": "MiniPoV 4",
+        "year": "2017",
+        "image": "/Users/snehashah/Desktop/miniPOV_2017.png",
+        "description": "This was my starter project with my MiniPoV 4."
     }
 ]
