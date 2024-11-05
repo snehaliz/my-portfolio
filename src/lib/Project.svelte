@@ -6,7 +6,10 @@ export let hLevel = 2;
 <article>
     <svelte:element this={'h' + hLevel}>{data.title}</svelte:element>   
     <img src={data.image} alt="">
-    <p>{data.description}</p>
+    <div>
+        <p>{data.description}</p>
+        <p class="year">{data.year}</p>
+    </div>  
 </article>
 
 <style>
@@ -23,6 +26,12 @@ export let hLevel = 2;
     }
     p {
         margin: 0.5em 0;
+    }
+    .year{
+        color: #888;
+        font-size:0.9em;
+        margin-top:0.2em;
+
     }
 
 </style>
