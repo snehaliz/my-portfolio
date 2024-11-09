@@ -92,8 +92,8 @@ $: arcs = arcData.map((d) => arcGenerator(d));
     }
   } 
 
-  svg:has(path:hover, path:focus-visible){
-    path:not(:hover, :focus-visible) {
+  :global(svg:has(path:hover, path:focus-visible)){
+    :global(path:not(:hover, :focus-visible)) {
       opacity: 50%;
     }
   }
