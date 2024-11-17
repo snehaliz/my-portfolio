@@ -2,80 +2,92 @@
     {
         "title": "CycleSpotting: Boston Bike Traffic Visualization",
         "year": "2024",
-        "image": "/Users/snehashah/Desktop/cyclespotting.png",
+        "image": "/images/cyclespotting.png",
         "description": "An interactive visualization of bike traffic patterns in the Boston area using Mapbox and D3.js.",
         "url": "https://snehaliz.github.io/cyclespotting/"
     },
     {
         "title": "Project 2: Earnest Visualization",
         "year": "2024",
-        "image": "/Users/snehashah/Downloads/a2_earnest.png",
-        "description": "This bar graph shows prevalence of COVID and Long COVID among adults."
+        "image": "/images/a2_earnest.png",
+        "description": "This bar graph shows prevalence of COVID and Long COVID among adults.",
+        "url": "https://canvas.ucsd.edu/courses/58113/assignments/823398?module_item_id=2374099"
     },
     {
         "title": "Project 2: Deceptive Visualization",
         "year": "2024",
-        "image": "/Users/snehashah/Downloads/a2_deceptive.png",
-        "description": "This line graph demonstrates that Long COVID is still influencing COVID survivors."
+        "image": "/images/a2_deceptive.png",
+        "description": "This line graph demonstrates that Long COVID is still influencing COVID survivors.",
+        "url": "https://canvas.ucsd.edu/courses/58113/assignments/823398?module_item_id=2374099"
     },
     {
         "title": "Project 1: Expository Visualization",
         "year": "2024",
-        "image": "/Users/snehashah/Downloads/a1.png",
-        "description": "This bar chart shows how sunshine and rain are related in various cities."
+        "image": "/images/a1.png",
+        "description": "This bar chart shows how sunshine and rain are related in various cities.",
+        "url": "https://canvas.ucsd.edu/courses/58113/assignments/823397?module_item_id=2374098"
     },
     {
         "title": "PySpark Data Analysis Group Project",
         "year": "2024",
-        "image": "/Users/snehashah/Desktop/FEMA_2024.png",
-        "description": "This is a graph showing the train RMSE and test RMSE."
+        "image": "/images/FEMA_2024.png",
+        "description": "This is a graph showing the train RMSE and test RMSE.",
+        "url": "https://github.com/snehaliz/dsc232r_group_project/tree/main"
     },
     {
         "title": "WIDS Conference Presentation",
         "year": "2024",
-        "image": "/Users/snehashah/Desktop/wids_2024.png",
-        "description": "This chart shows Smokers Percentage each year based on Race-Ethnicity."
+        "image": "/images/wids_2024.png",
+        "description": "This chart shows Smokers Percentage each year based on Race-Ethnicity.",
+        "url": "https://docs.google.com/presentation/d/1HB5EzAwir9dslxzG1yEaGqWBPx_7YwwV/edit?usp=sharing&ouid=100853292491297699298&rtpof=true&sd=true"
     },
     {
         "title": "PG&E Electricity Bill Data Project",
         "year": "2023",
-        "image": "/Users/snehashah/Desktop/pg&e_2023.png",
-        "description": "This is a graph showing the electricity cost based on the month and rate."
+        "image": "/images/pg&e_2023.png",
+        "description": "This is a graph showing the electricity cost based on the month and rate.",
+        "url": "https://colab.research.google.com/drive/1Bjv90OfLYOo4CkQ5-o2QDA86vhdNShnU?usp=sharing"
     },
     {
         "title": "Heart Failure Prediction",
         "year": "2023",
-        "image": "/Users/snehashah/Desktop/Heart_Failure_Prediction_2023.png",
-        "description": "This is a correlation matrix of among the columns within this dataset."
+        "image": "/images/Heart_Failure_Prediction_2023.png",
+        "description": "This is a correlation matrix of among the columns within this dataset.",
+        "url": "https://colab.research.google.com/drive/1UV19GEmwhkasaRVxWHNyPBMvHpJA2ayn?usp=sharing"
     },
     {
         "title": "Sentiment Analysis Project",
         "year": "2022",
-        "image": "/Users/snehashah/Desktop/Sentiment_Analysis_2022.png",
-        "description": "This is a graph showing the sentiment analysis score for each sentence in a poem."
+        "image": "/images/Sentiment_Analysis_2022.png",
+        "description": "This is a graph showing the sentiment analysis score for each sentence in a poem.",
+        "url": "https://colab.research.google.com/drive/1RpxGTYFYfZrpmoIPxdiGHxH3V0ubFyqt?usp=sharing"
     },
     {
         "title": "Baseball Database Website",
         "year": "2022",
-        "image": "/Users/snehashah/Desktop/database_design_2022.png",
-        "description": "This is a website that creates results of players and scores based on the team and the year selected."
+        "image": "/images/database_design_2022.png",
+        "description": "This is a website that creates results of players and scores based on the team and the year selected.",
+        "url": "file:///Users/snehashah/Documents/DSC/Database%20Design%20Class/DB%20Project%20Final/result.html"
     },
     {
         "title": "Temperature Outliers Data Science Project",
         "year": "2022",
-        "image": "/Users/snehashah/Desktop/data_science_final_2022.png",
-        "description": "This is a graph of Vertical Temperature Profiles. "
+        "image": "/images/data_science_final_2022.png",
+        "description": "This is a graph of Vertical Temperature Profiles.",
+        "url": "https://docs.google.com/presentation/d/1ABBq05A0t8aSCGBuzblUURO5gpXVXaqvxtyBhxjLWOQ/edit?usp=sharing"
     },
     {
         "title": "BITalino ECG Data Analyzer",
         "year": "2017",
-        "image": "/Users/snehashah/Desktop/bitalino_2017.png",
-        "description": "I wrote code to analyze heart rate data to tell if someone's heart rate is normal or not."
+        "image": "/images/bitalino_2017.png",
+        "description": "I wrote code to analyze heart rate data to tell if someone's heart rate is normal or not.",
+        "url": "https://projects.bluestampengineering.com/student-projects/sneha-s/"
     },
     {
         "title": "MiniPoV 4",
         "year": "2017",
-        "image": "/Users/snehashah/Desktop/miniPOV_2017.png",
-        "description": "This was my starter project with my MiniPoV 4."
+        "image": "/images/miniPOV_2017.png",
+        "description": "This was my starter project with my MiniPoV 4.",
+        "url": "https://projects.bluestampengineering.com/student-projects/sneha-s/"
     }
 ]
