@@ -1,5 +1,12 @@
 [
     {
+        "title": "CycleSpotting: Boston Bike Traffic Visualization",
+        "year": "2024",
+        "image": "/Users/snehashah/Desktop/cyclespotting.png",
+        "description": "An interactive visualization of bike traffic patterns in the Boston area using Mapbox and D3.js.",
+        "url": "https://snehaliz.github.io/cyclespotting/"
+    },
+    {
         "title": "Project 2: Earnest Visualization",
         "year": "2024",
         "image": "/Users/snehashah/Downloads/a2_earnest.png",
